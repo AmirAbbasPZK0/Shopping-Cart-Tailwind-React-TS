@@ -1,0 +1,131 @@
+{
+    "products":[
+        {
+            "title" : "Air Jordan 1 High OG 'Royal Reimagined'",
+            "price" : 180,
+            "id" : 1,
+            "imgUrl" : "./image/air_jordan_1_high_og_royal_reimagined.webp",
+            "rate" : 4.1
+        },
+        {
+            "title" : "Air Jordan 3 'Fear'",
+            "price" : 210,
+            "id" : 2,
+            "imgUrl" : "./image/air_jordan_3_fear.webp",
+            "rate" : 3.6
+        },
+        {
+            "title" : "Air Jordan 8 'Winterized'",
+            "price" : 210,
+            "id" : 3,
+            "imgUrl" : "./image/air_jordan_8_winterized.webp",
+            "rate" : 4.3
+        },
+        {
+            "title" : "Air Jordan 11 'Gratitude'",
+            "price" : 230,
+            "id" : 4,
+            "imgUrl" : "./image/air_jordan_11_gratitude.webp",
+            "rate" : 2.5
+        },
+        {
+            "title" : "Air Jordan 13 'Wheat'",
+            "price" : 200,
+            "id" : 5,
+            "imgUrl" : "./image/air_jordan_13_wheat.webp",
+            "rate" : 4.0
+        
+        },
+        {
+            "title" : "Air Jordan XXXVIII 'Aqua'",
+            "price" : 200,
+            "id" : 6,
+            "imgUrl" : "./image/air_jordan_xxxviii_aqua.webp",
+            "rate" : 3.9
+        },
+        {
+            "title" : "KD16",
+            "price" : 150,
+            "id" : 7,
+            "imgUrl" : "./image/kd16.webp",
+            "rate" : 2.2
+        },
+        {
+            "title" : "Nike Air Max 2013",
+            "price" : 180,
+            "id" : 8,
+            "imgUrl" : "./image/nike_air_max_2013.webp",
+            "rate" : 2.7
+        },
+        {
+            "title" : "Nike Air More Uptempo '96",
+            "price" : 153.97,
+            "id" : 9,
+            "imgUrl" : "./image/nike_air_more_uptempo_96.webp",
+            "rate" : 1.6
+        },
+        {
+            "title" : "Nike Air Trainer 1 'College Football Playoff'",
+            "price" : 140,
+            "id" : 10,
+            "imgUrl" : "./image/nike_air_trainer_1_college_football_playoff.webp",
+            "rate" : 3.4
+        },
+        {
+            "title" : "Nike Blazer Phantom Mid",
+            "price" : 150,
+            "id" : 11,
+            "imgUrl" : "./image/nike_blazer_phantom_mid.webp",
+            "rate" : 4.6
+        },
+        {
+            "title" : "Nike Dunk High Retro SE",
+            "price" : 140,
+            "id" : 12,
+            "imgUrl" : "./image/nike_dunk_high_retro_se.webp",
+            "rate" : 4.9
+        },
+        {
+            "title" : "Nike Dunk Low Retro",
+            "price" : 115,
+            "id" : 13,
+            "imgUrl" : "./image/nike_dunk_low_retro.webp",
+            "rate" : 3.8
+        },
+        {
+            "title" : "Nike Dunk Low",
+            "price" : 115,
+            "id" : 14,
+            "imgUrl" : "./image/nike_dunk_low.webp",
+            "rate" : 4.5
+        },
+        {
+            "title" : "Nike Vaporfly 3",
+            "price" : 260,
+            "id" : 15,
+            "imgUrl" : "./image/nike_vaporfly_3.webp",
+            "rate" : 3.0
+        },
+        {
+            "title" : "Nike Zoom Vomero 5",
+            "price" : 160,
+            "id" : 16,
+            "imgUrl" : "./image/nike_vomero_5.webp",
+            "rate" : 2.6
+        },
+        {
+            "title" : "Sabrina 1 'West Coast Roots'",
+            "price" : 130,
+            "id" : 17,
+            "imgUrl" : "./image/sabrina_1_west_coast_roots.webp",
+            "rate" : 5.0
+        },
+        {
+            "title" : "Tiger Woods '13",
+            "price" : 250,
+            "id" : 18,
+            "imgUrl" : "./image/tiger_woods_13.webp",
+            "rate" : 4.2
+        }
+    ]
+}
