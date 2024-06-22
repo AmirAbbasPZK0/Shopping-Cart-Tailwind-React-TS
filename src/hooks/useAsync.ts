@@ -5,7 +5,7 @@ import { ProductData } from "../interfaces/data";
 
 const useAsync = (innerUrl : string , method : string) => {
     
-    const [data , setData] = useState<ProductData[] | null>(null)
+    const [data , setData] = useState<ProductData[]>([])
     const [detailData , setDetailData] = useState<ProductData>({
         title : "",
         description : "",

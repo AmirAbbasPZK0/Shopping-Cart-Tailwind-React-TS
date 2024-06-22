@@ -19,7 +19,7 @@ const Cart = () => {
         <div className="flex flex-col gap-[10px] p-4">
             {Object.values(data).length === 0 ? (
                 <div className="h-[84vh] flex items-center justify-center">
-                    <h2>Basket is Empty</h2>
+                    <h2 className="text-[60px] text-blue-950 font-bold">Basket is Empty</h2>
                 </div>
             ) : (
                 <div>
